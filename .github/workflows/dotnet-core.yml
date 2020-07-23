@@ -20,4 +20,4 @@ jobs:
     - name: Install dependencies
       run: dotnet restore OrphanCsFileFinder/OrphanCsFileFinder.sln
     - name: Build
-      run: dotnet build --configuration Release --no-restore
+      run: dotnet build --configuration Release --no-restore OrphanCsFileFinder/OrphanCsFileFinder.sln
