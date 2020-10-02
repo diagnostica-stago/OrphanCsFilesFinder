@@ -15,7 +15,7 @@
     <PackageOutputPath>./nupkg</PackageOutputPath>
     <Company>Stago</Company>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <LangVersion>8</LangVersion>
+    <LangVersion>9</LangVersion>
     <Nullable>enable</Nullable>
     <PackageProjectUrl>https://github.com/diagnostica-stago/OrphanCsFilesFinder</PackageProjectUrl>
     <RepositoryUrl>https://github.com/diagnostica-stago/OrphanCsFilesFinder.git</RepositoryUrl>
