@@ -1,4 +1,4 @@
-# OrphanCsFileFinder
+# Orphan Cs Files Finder
 Finds .cs files without a csproj in a directory over them
 
 ### Installation
@@ -14,8 +14,8 @@ orphancsfilesfinder <TopDirectory>
 ```
 
 Arguments:
-- TopDirectory            The directory to analyze.
+- TopDirectory            The top directory to analyze.
 
 Options:
-  - `-g|--include-generated` : Include .generated.cs files in the orphaned files
+  - `-g|--include-generated` : Include .generated.cs files in the orphaned files, default is off
   - `-?|-h|--help` : Show help information
